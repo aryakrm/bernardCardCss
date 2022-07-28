@@ -61,6 +61,11 @@ img {
   display: none;
   margin-left: 50px;
 }
+.search {
+  display: flex;
+  flex-direction: row;
+  justify-self: center;
+}
 
 @media (max-width: 768px) {
   .toggle {
